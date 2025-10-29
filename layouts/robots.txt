@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Allow: /robots.txt
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /search/
+Disallow: /archives/
+
+Sitemap: https://blog.airat.top/sitemap.xml
