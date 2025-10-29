@@ -5,7 +5,7 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2014
 customText = ""
 
 [dateFormat]
@@ -19,7 +19,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/airattop.jpg"
 
 [article]
 headingAnchor = false
@@ -56,7 +56,7 @@ limit = 10
 type = "toc"
 
 [opengraph.twitter]
-site = ""
+site = "AiratTop"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
