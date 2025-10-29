@@ -55,14 +55,26 @@ limit = 10
 [[widgets.page]]
 type = "toc"
 
+[[widgets.page]]
+type = "categories"
+
+[widgets.page.params]
+limit = 10
+
+[[widgets.page]]
+type = "tag-cloud"
+
+[widgets.page.params]
+limit = 10
+
 [opengraph.twitter]
 site = "AiratTop"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
-enabled = false
-local = false
-src = ""
+enabled = true
+local = true
+src = "img/airattop.jpg"
 
 [colorScheme]
 toggle = true
@@ -76,7 +88,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
