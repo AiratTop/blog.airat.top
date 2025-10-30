@@ -25,7 +25,7 @@ links:
     description: Source code and self-hosted automation stacks ready for deployment.
     website: https://github.com/AiratTop
     image: /img/airattop.jpg
-  - title: X
+  - title: X/Twitter
     description: Quick takes and threads on AI trends, tooling, and implementation pitfalls.
     website: https://x.com/AiratTop
     image: /img/airattop.jpg
