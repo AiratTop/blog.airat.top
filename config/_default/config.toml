@@ -14,4 +14,4 @@ hasCJKLanguage = false
 enableRobotsTXT = true
 
 [pagination]
-pagerSize = 5
+pagerSize = 10
