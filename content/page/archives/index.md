@@ -6,8 +6,8 @@ slug: "archives"
 sitemap:
   priority: -1
 menu:
-    main:
-        weight: 2
-        params: 
-            icon: archives
+  main:
+    weight: 2
+    params:
+      icon: archives
 ---
