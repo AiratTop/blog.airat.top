@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Config for CF Pages:s
+# Config for CF Pages:
 # Command: hugo --minify --gc 
 # Output: public/ 
 # Env: HUGO_VERSION: 0.152.2
