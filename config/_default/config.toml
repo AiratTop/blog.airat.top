@@ -13,5 +13,7 @@ hasCJKLanguage = false
 
 enableRobotsTXT = true
 
+enableEmoji = true
+
 [pagination]
 pagerSize = 10
