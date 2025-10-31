@@ -40,4 +40,5 @@ menu:
       icon: link
 
 comments: false
+draft: true
 ---
