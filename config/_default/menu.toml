@@ -7,6 +7,42 @@
 #icon = "home"
 #newtab = true
 
+[[main]]
+identifier = "about"
+name = "About"
+url = "https://about.airat.top"
+weight = 5
+[main.params]
+icon = "user"
+newtab = true
+
+[[main]]
+identifier = "donate"
+name = "Donate"
+url = "https://donate.airat.top"
+weight = 6
+[main.params]
+icon = "infinity"
+newtab = true
+
+[[main]]
+identifier = "privacy"
+name = "Privacy Policy"
+url = "https://terms.airat.top"
+weight = 7
+[main.params]
+icon = "rss"
+newtab = true
+
+[[main]]
+identifier = "terms"
+name = "Terms of Use"
+url = "https://terms.airat.top"
+weight = 8
+[main.params]
+icon = "copyright"
+newtab = true
+
 [[social]]
 identifier = "github"
 name = "GitHub"
