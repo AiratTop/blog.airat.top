@@ -102,6 +102,6 @@ darkTheme = "dark_dimmed"
 reactionsEnabled = 1
 emitMetadata = 0
 inputPosition = "top"
-loading = "lazy"
+# loading = "lazy"
 lang = "en"
 strict = 0
