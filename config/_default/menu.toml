@@ -10,7 +10,7 @@
 [[main]]
 identifier = "about"
 name = "About"
-url = "https://about.airat.top"
+url = "https://airat.top"
 weight = 5
 [main.params]
 icon = "user"
