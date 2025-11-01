@@ -152,8 +152,3 @@ Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and ot
 Emoji can be enabled in a Hugo project in a number of ways. 
 🙄
 :see_no_evil:
-
-<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
-<br>
-
-The [Emoji cheat sheet](http://www.emoji-cheat-sheet.com/) is a useful reference for emoji shorthand codes.

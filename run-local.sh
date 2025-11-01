@@ -7,4 +7,5 @@
 
 rm -rf public resources
 
-hugo server --gc --minify 
+hugo server --gc
+# --minify 
