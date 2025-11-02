@@ -28,7 +28,7 @@ newtab = true
 [[main]]
 identifier = "privacy"
 name = "Privacy Policy"
-url = "https://terms.airat.top"
+url = "https://privacy.airat.top"
 weight = 7
 [main.params]
 icon = "rss"
