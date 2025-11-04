@@ -5,6 +5,7 @@ links:
     description: Stories and behind-the-scenes from automation builds and AI projects.
     website: https://www.instagram.com/airat.top/
     # image: /img/airattop.jpg
+    # alt: Instagram AiratTop
   - title: TikTok
     description: Short walkthroughs and tips on no-code automation, AI, and productivity hacks.
     website: https://www.tiktok.com/@airat.top
