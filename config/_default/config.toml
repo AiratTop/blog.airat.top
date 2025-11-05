@@ -17,3 +17,7 @@ enableEmoji = true
 
 [pagination]
 pagerSize = 10
+
+[services]
+[services.googleAnalytics]
+ID = 'G-CVEGGNPJXK'
