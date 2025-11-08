@@ -17,6 +17,15 @@ icon = "user"
 newtab = true
 
 [[main]]
+identifier = "donate"
+name = "Donate"
+url = "https://donate.airat.top"
+weight = 6
+[main.params]
+icon = "infinity"
+newtab = true
+
+[[main]]
 identifier = "privacy"
 name = "Privacy Policy"
 url = "https://privacy.airat.top"
