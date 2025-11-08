@@ -47,15 +47,39 @@ newtab = true
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/AiratTop"
-
+weight = 1
 [social.params]
 icon = "brand-github"
+
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://www.youtube.com/@AiratTop?sub_confirmation=1"
+weight = 2
+[social.params]
+icon = "brand-youtube"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/AiratTop"
+weight = 3
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/airat.top/"
+weight = 4
+[social.params]
+icon = "brand-instagram"
 
 [[social]]
 identifier = "twitter"
 name = "Twitter"
 url = "https://x.com/AiratTop"
-
+weight = 5
 [social.params]
 icon = "brand-twitter"
 
@@ -63,38 +87,14 @@ icon = "brand-twitter"
 identifier = "facebook"
 name = "Facebook"
 url = "https://www.facebook.com/AiratTop"
-
+weight = 6
 [social.params]
 icon = "brand-facebook"
-
-[[social]]
-identifier = "instagram"
-name = "Instagram"
-url = "https://www.instagram.com/airat.top/"
-
-[social.params]
-icon = "brand-instagram"
-
-[[social]]
-identifier = "linkedin"
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/AiratTop"
-
-[social.params]
-icon = "brand-linkedin"
-
-[[social]]
-identifier = "youtube"
-name = "YouTube"
-url = "https://www.youtube.com/@AiratTop?sub_confirmation=1"
-
-[social.params]
-icon = "brand-youtube"
 
 [[social]]
 identifier = "tiktok"
 name = "TikTok"
 url = "https://www.tiktok.com/@airat.top"
-
+weight = 7
 [social.params]
 icon = "brand-tiktok"
