@@ -12,7 +12,7 @@ links:
     # image: /img/airattop.jpg
   - title: YouTube
     description: Deep-dive videos with tutorials, case studies, and platform reviews.
-    website: https://www.youtube.com/@AiratTop
+    website: https://www.youtube.com/@AiratTop?sub_confirmation=1
     # image: /img/airattop.jpg
   - title: Facebook
     description: Updates and community discussions around AI-enabled business automation.

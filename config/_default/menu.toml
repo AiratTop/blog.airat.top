@@ -85,8 +85,8 @@ icon = "brand-linkedin"
 
 [[social]]
 identifier = "youtube"
-name = "LinkedIn"
-url = "https://www.youtube.com/@AiratTop"
+name = "YouTube"
+url = "https://www.youtube.com/@AiratTop?sub_confirmation=1"
 
 [social.params]
 icon = "brand-youtube"
