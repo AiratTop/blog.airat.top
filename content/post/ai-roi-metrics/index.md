@@ -7,6 +7,7 @@ slug: ai-roi-metrics
 tags:
   - ai
   - automation
+  - roi
 categories:
   - education
 draft: false
