@@ -9,7 +9,8 @@ tags:
   - automation
 categories:
   - education
-# weight: 1 
+# weight: 1
+toc: true
 draft: false
 ---
 
