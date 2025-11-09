@@ -3,6 +3,7 @@ title: Markdown Syntax Guide
 date: 2025-09-09
 description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
 image: cover.jpg
+slug: markdown-syntax-guide
 tags:
   - markdown
 categories:

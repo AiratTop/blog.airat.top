@@ -1,8 +1,9 @@
 ---
-title: 5 Reasons to Use AI for Business
-date: 2025-11-08
-description: Five ways AI cuts costs, lifts sales, speeds decisions, improves customer experience, and builds a durable competitive edge.
+title: "5 Reasons to Use AI for Business"
+date: 2025-11-07
+description: "Five ways AI cuts costs, lifts sales, speeds decisions, improves customer experience, and builds a durable competitive edge."
 image: cover.jpg
+slug: 5-reasons-to-use-ai
 tags:
   - ai
   - automation
@@ -56,6 +57,6 @@ Efficiency is table stakes; **compounding capability** is the moat.
 - **Internal copilots:** Every role gets faster; your whole org learns.  
 **Result:** an edge competitors can’t copy quickly.
 
-## Wrap-up
+## Summary
 
 Start small, ship fast, measure hard. Put AI where it meets real work, and improvements will stack—costs down, speed up, customers happier, and an advantage that grows over time.
