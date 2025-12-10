@@ -83,13 +83,13 @@ weight = 5
 [social.params]
 icon = "brand-twitter"
 
-[[social]]
-identifier = "facebook"
-name = "Facebook"
-url = "https://www.facebook.com/AiratTop"
-weight = 6
-[social.params]
-icon = "brand-facebook"
+# [[social]]
+# identifier = "facebook"
+# name = "Facebook"
+# url = "https://www.facebook.com/AiratTop"
+# weight = 6
+# [social.params]
+# icon = "brand-facebook"
 
 [[social]]
 identifier = "tiktok"
