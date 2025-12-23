@@ -87,7 +87,7 @@ icon = "brand-twitter"
 # identifier = "facebook"
 # name = "Facebook"
 # url = "https://www.facebook.com/AiratTop"
-# weight = 6
+# weight = 7
 # [social.params]
 # icon = "brand-facebook"
 
@@ -95,6 +95,6 @@ icon = "brand-twitter"
 identifier = "tiktok"
 name = "TikTok"
 url = "https://www.tiktok.com/@airat.top"
-weight = 7
+weight = 6
 [social.params]
 icon = "brand-tiktok"
