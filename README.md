@@ -1,5 +1,7 @@
 # AiratTop Blog
 
+[![blog.airat.top](https://raw.githubusercontent.com/AiratTop/blog.airat.top/main/screenshot.png)](https://blog.airat.top/)
+
 Personal blog built with Hugo. The site is published at: https://blog.airat.top
 
 ## License
